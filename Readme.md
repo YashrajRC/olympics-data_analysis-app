@@ -68,7 +68,3 @@ This section provides an athlete-wise analysis of the Olympics.
 4. The web app will open in the browser
 
 
-- [Mohd Mohitur Rahaman](https://linktr.ee/mohitur)
-
-# Feedback
-If you have any feedback, you can make the changes and create a pull request or, please reach out to me at [here](mailto:mohitur669@gmail.com) or [LinkedIn](https://www.linkedin.com/in/mohitur02).
