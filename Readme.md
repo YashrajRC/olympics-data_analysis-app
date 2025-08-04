@@ -1,4 +1,4 @@
-# Exploratory Data Analysis: 120 Years of Olympics History - Python <a href="https://olympic-analysis.streamlit.app/" target="_blank">Web App</a>
+# Exploratory Data Analysis: 120 Years of Olympics History -
 # Introduction
 This is an Exploratory Data Analysis project to analyze the modern Olympic Games, including all the Games from Athens 1896 to Rio 2016. This analysis provides an opportunity to ask questions about how the Olympics have evolved over time, including questions about the participation and performance of women, different nations, and different sports and events.
 
@@ -27,9 +27,6 @@ The file noc_regions.csv contains 230 rows and 3 columns. Each row corresponds t
 1. NOC (National Olympic Committee 3 letter code)
 2. region
 3. notes
-
-# Python Web App
-This project is deployed on Streamlit Community Cloud. You can access the web app <a href="https://mohitur669-olympic-data-analysis-webapp-app-ahoyjx.streamlit.app/" target="_blank"><strong>here</strong></a>. <br> **Note:** All the graphs and charts are interactive. You can hover over the graphs and charts to get more information. You can also download the graphs and charts in png format.
 
 # Features of the Web App
 The web app provides a brief overview of the dataset. It provides users to choose between 4 options to explore the dataset. The options are:
@@ -65,13 +62,11 @@ This section provides an athlete-wise analysis of the Olympics.
 4. Men Vs Women Participation Over the Years (Line Graph)
 
 # How to run the project locally
-1. Clone the repository using `git clone https://github.com/Mohitur669/Olympic-Data-Analysis-WebApp.git` in the terminal
+1. Clone the repository
 2. Install the required libraries (mentioned in requirements.txt)
 3. Run the command `streamlit run app.py` to run the app locally
 4. The web app will open in the browser
 
-# About me
-I am Mohd Mohitur Rahaman, and currently, I am pursuing MCA from KIIT University, Bhubaneswar. Talking about my previous educational background, I did my BSC in Mathematics at Malda College.
 
 - [Mohd Mohitur Rahaman](https://linktr.ee/mohitur)
 
