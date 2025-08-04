@@ -1,4 +1,4 @@
-# Exploratory Data Analysis: 120 Years of Olympics History -
+# Exploratory Data Analysis: 120 Years of Olympics History 
 # Introduction
 This is an Exploratory Data Analysis project to analyze the modern Olympic Games, including all the Games from Athens 1896 to Rio 2016. This analysis provides an opportunity to ask questions about how the Olympics have evolved over time, including questions about the participation and performance of women, different nations, and different sports and events.
 
